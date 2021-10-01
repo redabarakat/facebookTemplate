@@ -1,2 +1,2 @@
-# template-scocial-media
+# template-social-media
 design for facebook 
